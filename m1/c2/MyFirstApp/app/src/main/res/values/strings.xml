@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi Primera App</string>
+    <string name="instructions">Ingresa tu nombre</string>
+    <string name="send_name_button">Enviar nombre</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hello_username">Bienvenido, %1$s</string>
+    <string name="menu_button_1">Menu 1</string>
+    <string name="menu_button_2">Menu 2</string>
+    <string name="menu_button_1_pressed">Menu 1 presionado</string>
+    <string name="menu_button_2_pressed">Menu 2 presionado</string>
+
+</resources>
