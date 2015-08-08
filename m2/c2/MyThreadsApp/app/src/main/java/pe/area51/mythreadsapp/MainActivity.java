@@ -6,10 +6,11 @@ import android.app.ProgressDialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 
-public class MainActivity extends ActionBarActivity implements View.OnClickListener {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private AlertDialog progressDialog;
 
@@ -27,13 +28,6 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
                 .setOnClickListener(this);
         findViewById(R.id.activity_main_button_async_task)
                 .setOnClickListener(this);
-
-        Fragment fragment = new Fragment();
-        final String MY_TAG = "MY_FRAGMENT";
-        getFragmentManager()
-                .beginTransaction()
-                .add(fragment, MY_TAG)
-                .commit();
     }
 
     @Override
