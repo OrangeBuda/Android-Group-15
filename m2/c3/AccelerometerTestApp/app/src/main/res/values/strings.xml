@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Accelerometer Test App</string>
+
+    <string name="start_accelerometer">Iniciar Acelerómetro</string>
+    <string name="stop_accelerometer">Detener Acelerómetro</string>
+    <string name="accelerometer_x">Eje X: %s</string>
+    <string name="accelerometer_y">Eje Y: %s</string>
+    <string name="accelerometer_z">Eje Z: %s</string>
+</resources>
