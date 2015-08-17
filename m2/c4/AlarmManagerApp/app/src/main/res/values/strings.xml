@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlarmManager App</string>
+
+    <string name="alarm_status">Estado de la alarma: %s</string>
+    <string name="alarm_status_set">Programada</string>
+    <string name="alarm_status_not_set">No programada</string>
+    <string name="set_alarm">Programar alarma</string>
+    <string name="cancel_alarm">Cancelar alarma</string>
+    <string name="alarm_fired">¡Alarma disparada!</string>
+
+</resources>
