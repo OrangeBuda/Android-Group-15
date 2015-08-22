@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySharedPreferencesApp</string>
+
+    <string name="message">¡Hola %s!</string>
+    <string name="last_user">El último visitante fue: %s.</string>
+    <string name="first_user">¡Eres el primer visitante!</string>
+    <string name="hint_name">Nombre</string>
+    <string name="register_user">Registrar</string>
+</resources>
